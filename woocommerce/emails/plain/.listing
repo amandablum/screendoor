@@ -1,0 +1,17 @@
+drwxr-xr-x    2 howlingz   howlingz         4096 Jul 11 19:18 .
+drwxr-xr-x    3 howlingz   howlingz         4096 Jul 11 19:18 ..
+-rw-r--r--    1 howlingz   howlingz         1950 Jul 29 12:28 admin-cancelled-order.php
+-rw-r--r--    1 howlingz   howlingz         1942 Jul 29 12:28 admin-failed-order.php
+-rw-r--r--    1 howlingz   howlingz         1893 Jul 29 12:28 admin-new-order.php
+-rw-r--r--    1 howlingz   howlingz         1967 Jul 29 12:28 customer-completed-order.php
+-rw-r--r--    1 howlingz   howlingz         2028 Jul 29 12:28 customer-invoice.php
+-rw-r--r--    1 howlingz   howlingz         1512 Jul 29 12:28 customer-new-account.php
+-rw-r--r--    1 howlingz   howlingz         2024 Jul 29 12:28 customer-note.php
+-rw-r--r--    1 howlingz   howlingz         1860 Jul 29 12:28 customer-on-hold-order.php
+-rw-r--r--    1 howlingz   howlingz         1922 Jul 29 12:28 customer-processing-order.php
+-rw-r--r--    1 howlingz   howlingz         1957 Jul 29 12:28 customer-refunded-order.php
+-rw-r--r--    1 howlingz   howlingz         1622 Jul 29 12:28 customer-reset-password.php
+-rw-r--r--    1 howlingz   howlingz         1172 Jul 29 12:28 email-addresses.php
+-rw-r--r--    1 howlingz   howlingz         1036 Jul 29 12:28 email-customer-details.php
+-rw-r--r--    1 howlingz   howlingz         1631 Jul 29 12:28 email-order-details.php
+-rw-r--r--    1 howlingz   howlingz         2726 Jul 29 12:28 email-order-items.php
